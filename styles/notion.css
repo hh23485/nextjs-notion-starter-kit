@@ -42,7 +42,7 @@
 /* Fix embedded video's size overflows its container --> */
 
 .notion-header .nav-header {
-  max-width: 500px;
+  max-width: 1100px;
   margin: 0 auto;
 }
 
