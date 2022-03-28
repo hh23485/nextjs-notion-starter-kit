@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  github: 'hh23485',
+  github: 'https://github.com/hh23485',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
